@@ -1,4 +1,9 @@
-![](Login_Screen_Creation.png)
+<table>
+    <tr>
+        <td><img src="SignIn.png" alt="SignIn"></td>
+        <td><img src="SignUp.png" alt="SignOut"></td>
+    </tr>
+</table>
 
 # signin_signup
 
